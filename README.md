@@ -54,11 +54,12 @@ Important note: this project not focus to how many features you created. This fo
 
 It means that you will have to implement a web services step by step as below:
 
-Create a simple web services
-Configure API route
-Coding simple CRUD operation API with features: pagination, sorting, filtering and error handling.
-Deploy your API web services to local
-Test them with cURL and Postman
+- Create a simple web services
+- Configure API route
+- Coding simple CRUD operation API with features: pagination, sorting, filtering and error handling.
+- Deploy your API web services to local
+- Test them with cURL and Postman
+
 Again remind, don’t focus how to get data and return them in your API web services. You can return exist data (hard code data) for test.
 
 When you finish, you will confident to do your mission.
@@ -87,19 +88,20 @@ Acceptance Criteria
 4. Able to store error log when it returned client/server errors.
 
 ## REFERENCE
-    RESTful API principle: https://restfulapi.net/
-    RESTful API Design: https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf
-    Swagger: https://swagger.io/
-    cURL: https://curl.haxx.se/
-    Postman: https://www.getpostman.com/
-    Gmail API: https://developers.google.com/gmail/api/v1/reference/
-    Google Calendar API: https://developers.google.com/calendar/v3/reference/?hl=en_US
-    Youtube Data API: https://developers.google.com/youtube/v3/docs/
-    Google Drive API: https://developers.google.com/drive/api/v3/reference/
-    Oxford Dictionary API: https://developer.oxforddictionaries.com/documentation
-    Twitter API: https://developer.twitter.com/en/docs/api-reference-index
-    OMDb API: http://www.omdbapi.com/#usage
-    Slack API: https://api.slack.com/docs/conversations-api
+    [RESTful API principle](https://restfulapi.net/)
+    [RESTful API Design](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)
+    [Swagger](https://swagger.io/)
+    [cURL](https://curl.haxx.se/)
+    [Postman](https://www.getpostman.com/)
+    
+    [Gmail API](https://developers.google.com/gmail/api/v1/reference/)
+    [Google Calendar API](https://developers.google.com/calendar/v3/reference/?hl=en_US)
+    [Youtube Data API](https://developers.google.com/youtube/v3/docs/)
+    [Google Drive API](https://developers.google.com/drive/api/v3/reference/)
+    [Oxford Dictionary API](https://developer.oxforddictionaries.com/documentation)
+    [Twitter API](https://developer.twitter.com/en/docs/api-reference-index)
+    [OMDb API](http://www.omdbapi.com/#usage)
+    [Slack API](https://api.slack.com/docs/conversations-api)
     
 # BONUS
 You have your API Design and you have your API Web Services. And this is your bonus:

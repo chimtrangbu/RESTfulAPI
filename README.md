@@ -76,9 +76,7 @@ Write a Python Application to work with one of API Web Services below:
 - OMDb API
 - Slack API
 
-Register your API Web Services at link:
-
-https://docs.google.com/spreadsheets/d/1O2xGTW0Li1YAiVUX0E2xwiHk79CGlzFtUvcEbmYKDDI/edit#gid=0
+Register your API Web Services at [link](https://docs.google.com/spreadsheets/d/1O2xGTW0Li1YAiVUX0E2xwiHk79CGlzFtUvcEbmYKDDI/edit#gid=0)
 
 Acceptance Criteria
 
@@ -88,20 +86,20 @@ Acceptance Criteria
 4. Able to store error log when it returned client/server errors.
 
 ## REFERENCE
-    [RESTful API principle](https://restfulapi.net/)
-    [RESTful API Design](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)
-    [Swagger](https://swagger.io/)
-    [cURL](https://curl.haxx.se/)
-    [Postman](https://www.getpostman.com/)
+[RESTful API principle](https://restfulapi.net/)
+[RESTful API Design](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)
+[Swagger](https://swagger.io/)
+[cURL](https://curl.haxx.se/)
+[Postman](https://www.getpostman.com/)
     
-    [Gmail API](https://developers.google.com/gmail/api/v1/reference/)
-    [Google Calendar API](https://developers.google.com/calendar/v3/reference/?hl=en_US)
-    [Youtube Data API](https://developers.google.com/youtube/v3/docs/)
-    [Google Drive API](https://developers.google.com/drive/api/v3/reference/)
-    [Oxford Dictionary API](https://developer.oxforddictionaries.com/documentation)
-    [Twitter API](https://developer.twitter.com/en/docs/api-reference-index)
-    [OMDb API](http://www.omdbapi.com/#usage)
-    [Slack API](https://api.slack.com/docs/conversations-api)
+[Gmail API](https://developers.google.com/gmail/api/v1/reference/)
+[Google Calendar API](https://developers.google.com/calendar/v3/reference/?hl=en_US)
+[Youtube Data API](https://developers.google.com/youtube/v3/docs/)
+[Google Drive API](https://developers.google.com/drive/api/v3/reference/)
+[Oxford Dictionary API](https://developer.oxforddictionaries.com/documentation)
+[Twitter API](https://developer.twitter.com/en/docs/api-reference-index)
+[OMDb API](http://www.omdbapi.com/#usage)
+[Slack API](https://api.slack.com/docs/conversations-api)
     
 # BONUS
 You have your API Design and you have your API Web Services. And this is your bonus:

@@ -14,8 +14,7 @@ def home(request):
 
 
 def omdb(request):
-    token = settings.OMDB_API_KEY
-    # token = 'c60fe8f4'
+    token = settings.OMDB_APP_KEY
     search_result = {}
     if 'title' in request.GET:
         title = request.GET['title']

@@ -1,6 +1,6 @@
 from django.shortcuts import render
+from django.conf import settings
 import requests
-import os
 
 # Create your views here.
 
@@ -14,8 +14,8 @@ def home(request):
 
 
 def omdb(request):
-    # token = os.environ.get('OMDB_API_KEY')
-    token = 'c60fe8f4'
+    token = settings.OMDB_API_KEY
+    # token = 'c60fe8f4'
     search_result = {}
     if 'title' in request.GET:
         title = request.GET['title']

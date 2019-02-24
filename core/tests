@@ -1,0 +1,4 @@
+echo -e "OK\nhttp://172.26.8.77:8000/api/movies\nget\n\n\n\n" | ./app_with_omdbapi.py
+echo -e "OK\nhttp://172.26.8.77:8000/api/movies\npost\n\n\n\n" | ./app_with_omdbapi.py
+echo -e "OK\n\n\nget\napikey=c60fe8f4\ns=mark\n\naccept:text/html\n\n\n" | ./app_with_omdbapi.py
+echo -e "OK\nhttps://od-api.oxforddictionaries.com:443/api/v1/inflections/en/swimming\nget\n\napp_id:7bae2d70\napp_key:4b0aad78943b009ec26c46ed3de2ee8c\n\n\n\n" | ./app_with_omdbapi.py
